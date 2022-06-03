@@ -7,6 +7,10 @@ body{
 	background-color: #19191B;
 	overflow-x: hidden;
 }
+body ::selection {
+  color: #fff;
+  background: #96BB7C;
+}
 /* common css end */
 /* header start */
 header{
